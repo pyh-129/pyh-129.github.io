@@ -62,4 +62,5 @@ My research interests lie in Multimodal Generation and Understanding.
 
 # 💻 Internships
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
-# 🐱 [Digital Garden](https://pyh-129.github.io/Digital_garden/)
+# 🐱 Digital Garden
+My [digital garden](https://pyh-129.github.io/Digital_garden/)
