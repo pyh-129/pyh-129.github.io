@@ -7,6 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!-- {% include_relative includes/intro.md %} -->
+<!-- {% include_relative includes/news.md %}
+
+{% include_relative includes/pub.md %} -->
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -58,4 +62,4 @@ My research interests lie in Multimodal Generation and Understanding.
 
 # 💻 Internships
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
-# [🐱 Digital Garden](https://pyh-129.github.io/Digital_garden/)
+# 🐱 [Digital Garden](https://pyh-129.github.io/Digital_garden/)
